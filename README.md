@@ -1,4 +1,10 @@
-# Getting Started with Create React App
+# Generalized 8 Puzzle Solver
+
+https://stefanomasini.github.io/8puzzle/
+
+
+
+---
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
