@@ -507,7 +507,7 @@ function App() {
     const [rows, changeRows] = useState(buildStartingState(width, height, buildOrderedSquaresList(width, height)));
     let [solving, setSolving] = useState(false);
     let [solvingGenerator, setSolvingGenerator] = useState(null);
-    const [solvingSpeed, changeSolvingSpeed] = useState(10);
+    const [solvingSpeed, changeSolvingSpeed] = useState(7);
     const [memory] = useState({
         solvingSpeed: null,
     });
