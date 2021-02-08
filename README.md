@@ -2,7 +2,9 @@
 
 https://stefanomasini.github.io/8puzzle/
 
+Deploy with:
 
+    npm run deploy
 
 ---
 
