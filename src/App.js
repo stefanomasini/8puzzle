@@ -613,6 +613,9 @@ function App() {
                 Solving speed:
                 <NumberInput value={solvingSpeed} minValue={1} maxValue={10} onChange={onChangeSolvingSpeed}/>
             </div>
+            <div className="buttons" style={{ paddingTop: 10 }}>
+                <a href="https://github.com/stefanomasini/8puzzle">GitHub project</a>
+            </div>
         </div>
     );
 }
